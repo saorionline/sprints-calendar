@@ -1,5 +1,6 @@
-| id_industria | sprint | fecha_inicio | fecha_fin | Definición | Recopilación | Exploración | Preprocesamiento | Modelado | Agregación | Automatización | Predicción | Visualización | Dashboard | Comprensión | Storytelling | id_portfolio | url_portfolio | id_insights | url_insights | |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 01 | S1 | 2026-10-04 | 2026-10-07 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| id_industria | sprint | fecha_inicio | fecha_fin | Definición | Recopilación | Exploración | Preprocesamiento | Modelado | Agregación | Automatización | Predicción | Visualización | Dashboard | Comprensión | Storytelling | id_portfolio | url_portfolio | id_insights | url_insights |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 01 | S1 | 2026-10-04 | 2026-10-07 | Establecer qué métricas REC |  |  |  |  |  |  |  |  |  |  |  | REC_01 | https://github.com/saorionline/direccion-profesional |  |  |
 | 02 | S2 | 2026-10-07 | 2026-10-10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 03 | S3 | 2026-10-10 | 2026-10-15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 04 | S4 | 2026-10-13 | 2026-10-16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -26,7 +27,7 @@
 | 25 | S7 | 2026-10-22 | 2026-10-27 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 26 | S8 | 2026-10-25 | 2026-10-28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 27 | S9 | 2026-10-28 | 2026-11-04 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 28 | S1 | 2026-10-04 | 2026-10-07 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 28 | S1 | 2026-10-04 | 2026-10-07 | Establecer qué métricas REC |  |  |  |  |  |  |  |  |  |  |  | REC_02 | https://github.com/saorionline/direccion-profesional |  |  |
 | 29 | S2 | 2026-10-07 | 2026-10-14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 30 | S3 | 2026-10-10 | 2026-10-16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 31 | S4 | 2026-10-13 | 2026-10-18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
