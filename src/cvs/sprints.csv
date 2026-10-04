@@ -6,7 +6,7 @@ id_industria,sprint,fecha_inicio,fecha_fin,Definición,Recopilación,Exploració
 05,S5,2026-10-16,2026-10-20,Determinar los indicadores que permiten medir,Extraer Marketing Intelligence,,,,,,,,,,,,,,
 06,S6,2026-10-20,2026-10-26,Definir los criterios métricos asociados a REC,Consolidar información granulidad y calidad de datos,,,,,,,,,,,,,,
 07,S7,2026-10-23,2026-10-28,Señalar qué variables permiten evaluar,Atribución Marketing Analytics,,,,,,,,,,,,,,
-08,S8,2026-10-26,2026-10-29,Determinar requerimientos por canal, Social Media Analytics visitas menú,,,,,,,,,,,,,,,
+08,S8,2026-10-26,2026-10-29,"Determinar requerimientos por canal, Social Media Analytics visitas menú",,,,,,,,,,,,,,,
 09,S9,2026-10-29,2026-11-04,Fijar diccionario de métricas,Reunir Datos beneficio neto 1 mes,,,,,,,,,,,,,,
 10,S1,2026-10-04,2026-10-08,Establecer métricas REC,Obtener retención y churn subscripciones,,,,,,,,,,,,,,
 11,S2,2026-10-07,2026-10-11,Delimitar eventos REC,Consultar alcance frente a frecuencia subscripciones,,,,,,,,,,,,,,
